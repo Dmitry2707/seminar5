@@ -9,16 +9,15 @@ for (int i = 0; i < array.Length; i++)
     array[i] = random.Next(1, 9);
 }
 Console.WriteLine(string.Join(",", array));
-Console.WriteLine("Сумма элементов, стоящих на нечетных позициях равна: {0}", Sumoddposition(array));
-int Sumoddposition(int[] array)
-{
-int Sumoddposition = 0;
-int Sum = 0;
 
-for (int i = 0; i < array.Length; i++)
-{
-    if (array[i] % 2 == 0);
-    Sum = Sumoddposition + array.Length;
-}
-return Sum;
-}
+ Console.WriteLine(SumPositive(array));
+ string SumPositive(int[] array)
+ {
+   string text = "";
+    for(int i = 0; i < array.Length / 3; i++)
+    {
+       text = text + (array[1] + array[3]); 
+    }
+    return text;
+ }
+
