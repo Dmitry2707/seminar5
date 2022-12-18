@@ -6,7 +6,7 @@ int[] array = new int [4];
 Random random = new Random();
 for (int i = 0; i < array.Length; i++)
 {
-    array[i] = random.Next(1, 9);
+    array[i] = random.Next(-9, 9);
 }
 Console.WriteLine(string.Join(",", array));
 
