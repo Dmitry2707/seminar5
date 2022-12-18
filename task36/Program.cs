@@ -12,11 +12,13 @@ Console.WriteLine(string.Join(",", array));
 Console.WriteLine("Сумма элементов, стоящих на нечетных позициях равна: {0}", Sumoddposition(array));
 int Sumoddposition(int[] array)
 {
+int Sumoddposition = 0;
 int Sum = 0;
+
 for (int i = 0; i < array.Length; i++)
 {
-    if ((array.Length & 2) != 0)
-        Sum += array[i];
+    if (array[i] % 2 == 0);
+    Sum = Sumoddposition + array.Length;
 }
 return Sum;
 }
