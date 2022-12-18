@@ -1,0 +1,15 @@
+/Users/dmitrij/Desktop/seminar5/seminar5/task34/obj/Debug/net6.0/task34.csproj.AssemblyReference.cache
+/Users/dmitrij/Desktop/seminar5/seminar5/task34/obj/Debug/net6.0/task34.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrij/Desktop/seminar5/seminar5/task34/obj/Debug/net6.0/task34.AssemblyInfoInputs.cache
+/Users/dmitrij/Desktop/seminar5/seminar5/task34/obj/Debug/net6.0/task34.AssemblyInfo.cs
+/Users/dmitrij/Desktop/seminar5/seminar5/task34/obj/Debug/net6.0/task34.csproj.CoreCompileInputs.cache
+/Users/dmitrij/Desktop/seminar5/seminar5/task34/bin/Debug/net6.0/task34
+/Users/dmitrij/Desktop/seminar5/seminar5/task34/bin/Debug/net6.0/task34.deps.json
+/Users/dmitrij/Desktop/seminar5/seminar5/task34/bin/Debug/net6.0/task34.runtimeconfig.json
+/Users/dmitrij/Desktop/seminar5/seminar5/task34/bin/Debug/net6.0/task34.dll
+/Users/dmitrij/Desktop/seminar5/seminar5/task34/bin/Debug/net6.0/task34.pdb
+/Users/dmitrij/Desktop/seminar5/seminar5/task34/obj/Debug/net6.0/task34.dll
+/Users/dmitrij/Desktop/seminar5/seminar5/task34/obj/Debug/net6.0/refint/task34.dll
+/Users/dmitrij/Desktop/seminar5/seminar5/task34/obj/Debug/net6.0/task34.pdb
+/Users/dmitrij/Desktop/seminar5/seminar5/task34/obj/Debug/net6.0/task34.genruntimeconfig.cache
+/Users/dmitrij/Desktop/seminar5/seminar5/task34/obj/Debug/net6.0/ref/task34.dll
